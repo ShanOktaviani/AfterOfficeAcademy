@@ -1,0 +1,11 @@
+email,password,firstName,lastName,birthdate,phone,street1,street2,city,stateProvince,postalCode,country
+perf.user01@mailtest.com,Password123,Andi,Saputra,1990-01-15,8005551201,Jl. Merdeka 1,Blok A,Bogor,Jawa Barat,16110,Indonesia
+perf.user02@mailtest.com,Password123,Budi,Santoso,1991-02-20,8005551202,Jl. Pajajaran 2,Blok B,Bogor,Jawa Barat,16111,Indonesia
+perf.user03@mailtest.com,Password123,Citra,Lestari,1992-03-11,8005551203,Jl. Sudirman 3,Blok C,Jakarta,DKI Jakarta,10220,Indonesia
+perf.user04@mailtest.com,Password123,Dewi,Anggraini,1993-04-09,8005551204,Jl. Thamrin 4,Blok D,Jakarta,DKI Jakarta,10230,Indonesia
+perf.user05@mailtest.com,Password123,Eko,Prasetyo,1994-05-25,8005551205,Jl. Asia Afrika 5,Blok E,Bandung,Jawa Barat,40111,Indonesia
+perf.user06@mailtest.com,Password123,Fitri,Handayani,1995-06-30,8005551206,Jl. Braga 6,Blok F,Bandung,Jawa Barat,40112,Indonesia
+perf.user07@mailtest.com,Password123,Gunawan,Wijaya,1996-07-14,8005551207,Jl. Diponegoro 7,Blok G,Semarang,Jawa Tengah,50131,Indonesia
+perf.user08@mailtest.com,Password123,Hana,Permata,1997-08-18,8005551208,Jl. Malioboro 8,Blok H,Yogyakarta,DI Yogyakarta,55213,Indonesia
+perf.user09@mailtest.com,Password123,Irfan,Maulana,1998-09-02,8005551209,Jl. Tunjungan 9,Blok I,Surabaya,Jawa Timur,60275,Indonesia
+perf.user10@mailtest.com,Password123,Jihan,Kusuma,1999-10-21,8005551210,Jl. Gajah Mada 10,Blok J,Denpasar,Bali,80111,Indonesia
